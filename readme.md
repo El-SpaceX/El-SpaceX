@@ -1,6 +1,6 @@
 ## Hello, seja bem vindo ao meu portfólio.
 
-Bem, sempre gostei bastante de tecnologia, e hoje em dia estudo programação, algo que gosto e pretendo trabalhar com isso. Irei deixar alguns projetos feitos por mim durante meu aprendizado.
+Bem, sempre gostei bastante de tecnologia, e hoje em dia estudo programação, algo que gosto e pretendo trabalhar. Irei deixar alguns projetos feitos por mim durante meu aprendizado.
 
 ### Python
 - [SPL Downloads](https://github.com/El-SpaceX/SPL-Downloads) - Um simples programa com interface gráfica usado para baixar videos do youtube usando.
