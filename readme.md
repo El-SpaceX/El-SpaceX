@@ -8,3 +8,4 @@ Bem, sempre gostei bastante de tecnologia, e hoje em dia estudo programação, a
 
 ### Pawn
 - [Ultimate-Creator-Translated](https://github.com/El-SpaceX/Ultimate-Creator-PTBR) - (Não foi eu o criador do FS) ULtimate Creator é um editor de mapas avançados de SA-MP feito pelo [NexiusTailer](https://github.com/NexiusTailer), que foi traduzido por mim para PT-BR(O mesmo somente se encontrava em Russo e em Inglês).
+- [bot-whitelist-samp](https://github.com/El-SpaceX/bot-whitelist-samp), simples sistema de whitelist usando o plugin discord-connector
